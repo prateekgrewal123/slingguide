@@ -1,0 +1,212 @@
+[
+  {
+    "id": "universal-tv-remote",
+    "brand": "Generic",
+    "name": "Universal TV Remote",
+    "price": 19.99,
+    "category": "TV Accessories",
+    "desc": "Universal remote control designed for common television functions including power, volume, input and channel navigation.",
+    "features": [
+      "TV, streaming and common remote-control functions",
+      "Universal layout",
+      "Pre-programmed compatibility varies by TV model"
+    ],
+    "image": "assets/products/universal-tv-remote.svg"
+  },
+  {
+    "id": "replacement-tv-remote",
+    "brand": "Generic",
+    "name": "Replacement TV Remote",
+    "price": 17.99,
+    "category": "TV Accessories",
+    "desc": "Replacement-style remote for compatible televisions. Check the original remote model or TV compatibility before ordering.",
+    "features": [
+      "TV replacement remote",
+      "Lightweight design",
+      "Compatibility varies by TV model"
+    ],
+    "image": "assets/products/replacement-tv-remote.svg"
+  },
+  {
+    "id": "learning-universal-remote",
+    "brand": "Generic",
+    "name": "Learning Universal Remote",
+    "price": 24.99,
+    "category": "Remotes",
+    "desc": "Programmable universal remote with learning-style controls for consolidating everyday TV and media commands.",
+    "features": [
+      "TV and media controls",
+      "Programmable buttons",
+      "Setup instructions included"
+    ],
+    "image": "assets/products/learning-universal-remote.svg"
+  },
+  {
+    "id": "high-speed-hdmi-cable",
+    "brand": "Generic",
+    "name": "High-Speed HDMI Cable",
+    "price": 12.99,
+    "category": "HDMI & Connectivity",
+    "desc": "High-speed HDMI cable for connecting televisions, streaming equipment, media players and other compatible devices.",
+    "features": [
+      "HDMI connection",
+      "High-speed signal support",
+      "Multiple length options"
+    ],
+    "image": "assets/products/high-speed-hdmi-cable.svg"
+  },
+  {
+    "id": "premium-hdmi-cable",
+    "brand": "Generic",
+    "name": "Premium HDMI Cable",
+    "price": 16.99,
+    "category": "HDMI & Connectivity",
+    "desc": "Durable HDMI cable for home entertainment connections between a TV and compatible source device.",
+    "features": [
+      "HDMI connection",
+      "Shielded construction",
+      "Supports compatible HDMI features"
+    ],
+    "image": "assets/products/premium-hdmi-cable.svg"
+  },
+  {
+    "id": "hdmi-adapter",
+    "brand": "Generic",
+    "name": "HDMI Adapter",
+    "price": 11.99,
+    "category": "HDMI & Connectivity",
+    "desc": "Compact HDMI adapter for connecting compatible display and source equipment when the ports require an adapter.",
+    "features": [
+      "HDMI connectivity",
+      "Compact form factor",
+      "Check connector type before ordering"
+    ],
+    "image": "assets/products/hdmi-adapter.svg"
+  },
+  {
+    "id": "hdmi-splitter",
+    "brand": "Generic",
+    "name": "HDMI Splitter",
+    "price": 29.99,
+    "category": "HDMI & Connectivity",
+    "desc": "HDMI splitter for distributing one compatible HDMI source to multiple displays. Useful for supported home entertainment setups.",
+    "features": [
+      "HDMI distribution",
+      "Multiple output ports",
+      "Power requirements vary by model"
+    ],
+    "image": "assets/products/hdmi-splitter.svg"
+  },
+  {
+    "id": "usb-power-cable",
+    "brand": "Generic",
+    "name": "USB Power Cable",
+    "price": 9.99,
+    "category": "Power & Charging",
+    "desc": "USB power cable for compatible streaming, media and small electronic accessories. Verify connector type before purchase.",
+    "features": [
+      "USB power",
+      "Flexible cable",
+      "Connector type varies by listing"
+    ],
+    "image": "assets/products/usb-power-cable.svg"
+  },
+  {
+    "id": "usb-wall-power-adapter",
+    "brand": "Generic",
+    "name": "USB Wall Power Adapter",
+    "price": 14.99,
+    "category": "Power & Charging",
+    "desc": "Compact USB wall power adapter for compatible USB-powered television and streaming accessories.",
+    "features": [
+      "USB power",
+      "Compact wall charger",
+      "Output compatibility should be checked"
+    ],
+    "image": "assets/products/usb-wall-power-adapter.svg"
+  },
+  {
+    "id": "ethernet-cable",
+    "brand": "Generic",
+    "name": "Ethernet Cable",
+    "price": 10.99,
+    "category": "Network Accessories",
+    "desc": "Ethernet cable for wired network connections between a compatible TV, streaming device, router or switch.",
+    "features": [
+      "Wired network connection",
+      "Flexible jacket",
+      "Connector type: RJ45"
+    ],
+    "image": "assets/products/ethernet-cable.svg"
+  },
+  {
+    "id": "usb-ethernet-adapter",
+    "brand": "Generic",
+    "name": "USB Ethernet Adapter",
+    "price": 18.99,
+    "category": "Network Accessories",
+    "desc": "USB-to-Ethernet adapter for compatible devices that need a wired network connection. Confirm device port support first.",
+    "features": [
+      "Wired network connection",
+      "USB interface",
+      "Device compatibility required"
+    ],
+    "image": "assets/products/usb-ethernet-adapter.svg"
+  },
+  {
+    "id": "wifi-range-extender",
+    "brand": "Generic",
+    "name": "Wi-Fi Range Extender",
+    "price": 34.99,
+    "category": "Network Accessories",
+    "desc": "Wi-Fi range extender intended to improve wireless coverage in areas where a compatible TV or streaming setup has a weak signal.",
+    "features": [
+      "Wireless network",
+      "Extended coverage",
+      "Placement affects performance"
+    ],
+    "image": "assets/products/wifi-range-extender.svg"
+  },
+  {
+    "id": "tv-wall-mount",
+    "brand": "Generic",
+    "name": "Universal TV Wall Mount",
+    "price": 39.99,
+    "category": "TV Accessories",
+    "desc": "Universal-style wall mount for compatible flat-panel televisions. Confirm screen size, VESA pattern and weight limits before installation.",
+    "features": [
+      "TV mounting",
+      "Adjustable mounting pattern",
+      "Hardware requirements vary"
+    ],
+    "image": "assets/products/tv-wall-mount.svg"
+  },
+  {
+    "id": "tv-cleaning-kit",
+    "brand": "Generic",
+    "name": "TV Screen Cleaning Kit",
+    "price": 14.99,
+    "category": "TV Accessories",
+    "desc": "Screen-safe cleaning kit for maintaining compatible television displays and removing everyday dust and smudges.",
+    "features": [
+      "TV maintenance",
+      "Screen-safe materials",
+      "Follow display manufacturer care guidance"
+    ],
+    "image": "assets/products/tv-cleaning-kit.svg"
+  },
+  {
+    "id": "remote-protective-cover",
+    "brand": "Generic",
+    "name": "Remote Control Protective Cover",
+    "price": 8.99,
+    "category": "Remotes",
+    "desc": "Protective silicone-style cover for compatible television remotes. Select the correct size and button layout before ordering.",
+    "features": [
+      "Remote protection",
+      "Flexible cover",
+      "Fit varies by remote model"
+    ],
+    "image": "assets/products/remote-protective-cover.svg"
+  }
+]
